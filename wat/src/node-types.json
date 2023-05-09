@@ -8,6 +8,10 @@
       "required": false,
       "types": [
         {
+          "type": "instr_list",
+          "named": true
+        },
+        {
           "type": "module",
           "named": true
         },
